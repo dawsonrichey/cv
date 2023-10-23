@@ -59,7 +59,7 @@
                   <div class="row">
                     <div class="col-sm-4 col-md-4 col-lg-4">
                       <div class="photo">
-                        <img src="images/profile_pic.png" alt="">
+                        <img src="images/profile_pic.jpg" alt="Dawson Richey">
                       </div>
                     </div>
 
